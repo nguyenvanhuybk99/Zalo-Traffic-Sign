@@ -1,0 +1,8 @@
+#   cd  src/lib/models/network/
+    git clone https://github.com/CharlesShang/DCNv2
+    cd DCNv2
+    ./make.sh
+    
+    torchvision==0.2.2
+    torch=1.3.0
+/u01/DATA/DATA/CenterNet/DATA
