@@ -1,4 +1,6 @@
-# zalo_traffic_sign
+# Zalo Traffic Sign
+
+Detect Traffic Sign using CenterNet Model
 
 ## Installation
 
